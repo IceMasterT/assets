@@ -1,0 +1,79 @@
+{
+  "name": "Sacred Chariots #1078",
+  "symbol": "SCOG",
+  "description": "The Guardians scoured the Sacred Scriptures for centuries. After supplanting Sacred Drip, they surmised their ascension.",
+  "seller_fee_basis_points": 2000,
+  "image": "/1078.png",
+  "external_url": "",
+  "collection": {
+    "name": "Sacred Chariots",
+    "family": "LaunchMyNFT"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jade Oak"
+    },
+    {
+      "trait_type": "Drip",
+      "value": "1"
+    },
+    {
+      "trait_type": "Guardian",
+      "value": "1"
+    },
+    {
+      "trait_type": "Loot Pad",
+      "value": "1"
+    },
+    {
+      "trait_type": "Scorch - Upgrade",
+      "value": "9"
+    },
+    {
+      "trait_type": "Scorch - Repair",
+      "value": "1"
+    },
+    {
+      "trait_type": "Guardian Speciality",
+      "value": "Any"
+    },
+    {
+      "trait_type": "Sacred Chariot Class",
+      "value": "Baseline"
+    },
+    {
+      "trait_type": "Sacred Sect",
+      "value": "Divine Battalion of Bastet"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Osiris Moon"
+    },
+    {
+      "trait_type": "Blazing Sky",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 688,
+      "display_type": "number",
+      "max_value": 1200
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "/1078.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7P1Gg8Av6aRuoxCVKkApqmX7bVRoUXmPct9kppxd2n5z",
+        "share": 100
+      }
+    ]
+  }
+}
